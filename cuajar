@@ -1,0 +1,1 @@
+docker run -it --rm dragonde/baseimage stress -i 1 -m 1 --vm-bytes 445M  -t 4s
